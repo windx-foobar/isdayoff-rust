@@ -1,0 +1,15 @@
+[package]
+name = "isdayoff-rust"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+license-file = "LICENSE"
+authors = ["windx-foobar <bezalkogoln1ycoder@gmail.com>"]
+
+
+[dependencies]
+chrono = "0.4.38"
+reqwest = "0.12.7"
+
+[dev-dependencies]
+tokio = { version = "1.40.0", features = ["macros"] }

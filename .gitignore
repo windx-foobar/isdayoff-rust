@@ -1,0 +1,8 @@
+# BUILD
+/target
+
+# MISC
+**/.idea/*
+!**/.idea/compiler.xml
+!**/.idea/codeStyles
+!**/.idea/prettier.xml
